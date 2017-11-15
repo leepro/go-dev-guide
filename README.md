@@ -2,7 +2,7 @@
 
 ## Web Frameworks
 
-* net/http
+* https://golang.org/pkg/net/http/
 * http://www.gorillatoolkit.org/
 * https://github.com/gin-gonic/gin
 * https://beego.me/
