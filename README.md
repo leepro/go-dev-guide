@@ -9,3 +9,7 @@
 
 ## Go Code Review
 * https://github.com/golang/go/wiki/CodeReviewComments
+
+## Others
+
+* Error handling https://godoc.org/github.com/pkg/errors
